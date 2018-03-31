@@ -2,7 +2,7 @@
 """
 Created on Sun Mar  4 15:49:40 2018
 #To Collect tweets from twiiter
-#Reference - Dr. Gene Moo Lee notes for Data Science
+#Reference - Dr. Gene Moo Lee,ryanmcgrath/twython-github
 @author: lamps08
 """
 from twython import TwythonStreamer
